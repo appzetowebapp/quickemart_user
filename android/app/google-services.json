@@ -1,22 +1,60 @@
 {
   "project_info": {
-    "project_number": "694115785084",
-    "firebase_url": "https://but-together-default-rtdb.firebaseio.com",
-    "project_id": "but-together",
-    "storage_bucket": "but-together.firebasestorage.app"
+    "project_number": "1077034723930",
+    "firebase_url": "https://quickemart-7a5be-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quickemart-7a5be",
+    "storage_bucket": "quickemart-7a5be.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:694115785084:android:ef949032f30607943eacf9",
+        "mobilesdk_app_id": "1:1077034723930:android:47ec6e853300990c750663",
         "android_client_info": {
-          "package_name": "com.buytogether.app"
+          "package_name": "com.quickemart.delivery"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDVL0NhTf7P1_G0PyuOg5PhPQaEuVBvCKo"
+          "current_key": "AIzaSyCnvMsQIsOUCJlTaqb0GjYG46MMEJZfZFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077034723930:android:aa6576157cad9a15750663",
+        "android_client_info": {
+          "package_name": "com.quickemart.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvMsQIsOUCJlTaqb0GjYG46MMEJZfZFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077034723930:android:29b564822a0fea47750663",
+        "android_client_info": {
+          "package_name": "com.quickemart.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvMsQIsOUCJlTaqb0GjYG46MMEJZfZFs"
         }
       ],
       "services": {
